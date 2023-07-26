@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavin Patel</h1>
-<h3 align="center">A passionate full-stack apps developer, A DevOps Engineer and currently work as a Product Manager and Assistant Directory of Technology and Research.</h3>
+<h3 align="center">A passionate full-stack apps developer, A DevOps Engineer & currently work as a Product Manager and Assistant Director of Technology and Research.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebhavin&label=Profile%20views&color=0e75b6&style=flat" alt="itsmebhavin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmebhavin" alt="itsmebhavin" /></a> </p>
 
-- 🔭 I’m currently working on **various law-enforcement and NCIC switch related products with my amazing team at work.**
+- 🔭 I’m currently working on **various law-enforcement and NCIC switch-related products with my amazing team at work.**
 
 - 🌱 I’m currently learning **Azure Cloud, K8s**
 
