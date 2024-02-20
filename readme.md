@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmebhavin" alt="itsmebhavin" /></a> </p>
 
+<a href="https://app.daily.dev/itsmebhavin"><img src="https://api.daily.dev/devcards/v2/zUxA177r5PXYCjAo42Ixo.png?r=sd9" width="356" alt="Bhavin Patel's Dev Card"/></a>
+
 - 🔭 I’m currently working on **various law-enforcement and NCIC switch-related products with my amazing team at work.**
 
 - 🌱 I’m currently learning **Azure Cloud, K8s**
