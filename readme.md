@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Angular, Electron, PWA, NestJS, NodeJS, UI/UX, CSS**
 
-- 📫 How to reach me **bhavin.ibm@gmail.com**
+- 📫 How to reach me **itsmebhavin2018@gmail.com**
 
 - 📄 Know about my experiences [https://sites.google.com/view/itsmebhavin2019](https://sites.google.com/view/itsmebhavin2019)
 
