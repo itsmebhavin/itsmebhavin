@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **various law-enforcement and NCIC switch-related products with my amazing team at work.**
 
-- 🌱 I’m currently learning **Azure Cloud, K8s**
+- 🌱 I'm currently working on an Azure Cloud based applications, services, DevSecOps practices and observability tools
 
 - 👨‍💻 All of my projects are available at [github.com/itsmebhavin](github.com/itsmebhavin)
 
 - 📝 I regularly write articles on [http://itsmebhavin.wordpress.com/](http://itsmebhavin.wordpress.com/)
 
-- 💬 Ask me about **Angular, Electron, PWA, NestJS, NodeJS, UI/UX, CSS**
+- 💬 Ask me about **DevOps, DevSecOps, Observability tools, Containerization, Angular, Electron/Tauri, PWA, NestJS, NodeJS, UI/UX, .NET Core, C#**
 
 - 📫 How to reach me **itsmebhavin2018@gmail.com**
 
